@@ -45,7 +45,7 @@ p, h1, h2, h3 {
 }
 
 h2 {
-    padding: 0.5rem 0rem;
+    padding: 0.1rem 0rem;
     color: hsl(0, 0%, 7%);
     font-size: 1.6rem;
 }
@@ -72,6 +72,7 @@ p {
 
 .name {
     padding: 0.7rem 3rem;
+    padding-bottom: 0rem;
     color: hsl(0, 0%, 7%);
 }
 
