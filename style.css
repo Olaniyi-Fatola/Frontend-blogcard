@@ -45,7 +45,6 @@ p, h1, h2, h3 {
 }
 
 h2 {
-    padding: 0.1rem 0rem;
     color: hsl(0, 0%, 7%);
     font-size: 1.6rem;
 }
@@ -60,9 +59,9 @@ h2:hover {
 }
 
 p {
-    padding: 0.5rem 0rem;
     color: hsl(0, 0%, 42%);
     text-align: left;
+    line-height: 1.5;
 }
 
 .dp {
