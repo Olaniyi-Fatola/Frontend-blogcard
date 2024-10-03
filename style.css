@@ -1,6 +1,6 @@
 *{
     font-family: Figtree;
-    font-size: 1rem;
+    font-size: 0.9rem;
 }
 
 body {
@@ -67,11 +67,11 @@ p {
 
 .dp {
     float: left;
-    width: 2.5rem;
+    width: 2rem;
 }
 
 .name {
-    padding: 0.7rem 3rem;
+    padding: 0.3rem 2.5rem;
     padding-bottom: 0rem;
     color: hsl(0, 0%, 7%);
 }
